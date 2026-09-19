@@ -1,0 +1,16 @@
+{
+    "type": "filament",
+    "name": "KINGROON PETG Translucent @BBL P1S",
+    "inherits": "KINGROON PETG Translucent @base",
+    "from": "system",
+    "setting_id": "GFKRS07_01",
+    "instantiation": "true",
+    "filament_flow_ratio": ["0.95"],
+    "filament_long_retractions_when_cut": ["1"],
+    "filament_max_volumetric_speed": ["13"],
+    "filament_retraction_distances_when_cut": ["18"],
+    "nozzle_temperature": ["245"],
+    "nozzle_temperature_initial_layer": ["250"],
+    "pre_start_fan_time": ["2"],
+    "compatible_printers": ["Bambu Lab P1S 0.4 nozzle"]
+}
