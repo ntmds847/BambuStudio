@@ -8262,6 +8262,390 @@
         {
             "name": "Generic TPU for AMS @BBL X2D 0.4 nozzle",
             "sub_path": "filament/Generic TPU for AMS @BBL X2D 0.4 nozzle.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @base",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @base.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL H2C",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL H2C.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL H2D 0.6 nozzle",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL H2D 0.6 nozzle.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PLA Basic @BBL X2D",
+            "sub_path": "filament/KINGROON/KINGROON PLA Basic @BBL X2D.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @base",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @base.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PLA + Basic @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PLA + Basic @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @base",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @base.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PLA Matte @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PLA Matte @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @base",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @base.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL H2C",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL H2C.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PLA Silk @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PLA Silk @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @base",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @base.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL H2C",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL H2C.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL H2D 0.6 nozzle",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL H2D 0.6 nozzle.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PETG Basic @BBL X2D",
+            "sub_path": "filament/KINGROON/KINGROON PETG Basic @BBL X2D.json"
+        },
+        {
+            "name": "KINGROON PETG HS @base",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @base.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PETG HS @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PETG HS @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON PETG Translucent @base",
+            "sub_path": "filament/KINGROON/KINGROON PETG Translucent @base.json"
+        },
+        {
+            "name": "KINGROON PETG Translucent @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PETG Translucent @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PETG Translucent @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PETG Translucent @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @base",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @base.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL A1.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL X1.json"
+        },
+        {
+            "name": "KINGROON PETG-CF Basic @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON PETG-CF Basic @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @base",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @base.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL X1.json"
+        },
+        {
+            "name": "KINGROON ABS Basic @BBL X2D",
+            "sub_path": "filament/KINGROON/KINGROON ABS Basic @BBL X2D.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @base",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @base.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL A1",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL A1.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL A1M",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL A1M.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL H2D",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL H2D.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL H2S",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL H2S.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL P1P",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL P1P.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL P1S",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL P1S.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL P2S",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL P2S.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL X1",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL X1.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL X1C",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL X1C.json"
+        },
+        {
+            "name": "KINGROON TPU 95A @BBL X1E",
+            "sub_path": "filament/KINGROON/KINGROON TPU 95A @BBL X1E.json"
         }
     ],
     "machine_list": [
